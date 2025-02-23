@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@tailwind colors;
+
+@layer base {
+  body {
+    @apply bg-gradient-to-br from-red-200 to-yellow-200;
+    @apply min-h-screen;
+  }
+}
+@layer base{
+  .active-hashtag{
+    @apply bg-red-300 rounded;
+  }
+}
