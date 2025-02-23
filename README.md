@@ -34,4 +34,4 @@ Open your browser and go to `http://localhost:3000` to view the application.
 
 ## Deployment
 
-This application is deployed at using Vercel's hosting and deployment services.
+This application is deployed at using Vercel's hosting and deployment services here: https://test-task-abud.vercel.app/
